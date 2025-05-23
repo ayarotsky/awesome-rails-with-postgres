@@ -108,4 +108,5 @@ ActiveRecord and Postgres do a lot. These gems help them to do much more togethe
 
 - [High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
 - [Lift the Elephant](https://leanpub.com/lift-the-elephant)
+- [Rails Scales!](https://pragprog.com/titles/cprpo/rails-scales/)
 - [Polished Ruby Programming: Build better software with more intuitive, maintainable, scalable, and high-performance Ruby code](https://www.packtpub.com/en-us/product/polished-ruby-programming-9781801072724)

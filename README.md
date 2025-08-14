@@ -34,6 +34,7 @@ ActiveRecord and Postgres do a lot. These gems help them to do much more togethe
 - [Rollup](https://github.com/ankane/rollup) – Incrementally aggregate data in Postgres for fast reporting
 - [Neighbor](https://github.com/ankane/neighbor) – Fast nearest-neighbor search, ActiveRecord style
 - [ActiveRecordExtended](https://github.com/GeorgeKaraszi/ActiveRecordExtended) – Extend ActiveRecord with additional methods for common use cases, including querying and relation handling
+- [ActiveMedian](https://github.com/ankane/active_median) - Median and percentile calculation for Active Record
 
 ### Soft Deletes and Versioning
 
